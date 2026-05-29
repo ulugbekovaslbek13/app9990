@@ -1,0 +1,1 @@
+print('[SYSTEM] Minimal background telemetry process active.')
